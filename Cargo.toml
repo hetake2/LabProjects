@@ -1,7 +1,0 @@
-[package]
-name = "classwork"
-description = "Test gamedev in Rust"
-version = "0.1.0"
-authors = ["alladin <Telegram: @hetake2>"]
-
-[dependencies]
